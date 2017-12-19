@@ -64,6 +64,12 @@ body {
        right: 570px;
       }
       }
+@media (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2), (min--moz-device-pixel-ratio: 2), (-o-min-device-pixel-ratio: 2/1), (min-device-pixel-ratio: 2), (min-resolution: 2dppx) { 
+        .logofeat{
+          height: 560px;
+          width: 700px;
+        }
+        }
     /*Navigation menu*/
 /* Add a black background color to the top navigation */
 .topnav {
